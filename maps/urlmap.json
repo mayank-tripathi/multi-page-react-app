@@ -1,0 +1,18 @@
+{
+    "/api1": {
+        "type": "api",
+        "url": "http://www.mocky.io/v2/59b4629c1000002315236bcd"
+    },
+    "/api2": {
+        "type": "api",
+        "url": "http://www.mocky.io/v2/59b46b7b1000000116236bd0"
+    },
+    "/about" : {
+        "type" : "page",
+        "url": "/views/about.html"
+    },
+    "/" : {
+        "type" : "page",
+        "url": "/views/index.html"
+    }
+}
